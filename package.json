@@ -9,14 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prismicio/client": "^5.1.0",
     "@stripe/stripe-js": "^1.17.1",
+    "@types/prismic-dom": "^2.1.1",
     "axios": "^0.21.1",
     "faunadb": "^4.3.0",
     "next": "11.1.0",
     "next-auth": "^3.29.0",
+    "prismic-dom": "^2.2.6",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "^4.2.0",
+    "react-modal": "^3.14.3",
     "sass": "^1.38.1",
     "stripe": "^8.170.0"
   },
